@@ -1,0 +1,11 @@
+# Build Code
+build/acm
+build/stanford
+build/*.jar
+build/*.class
+build/*.java
+
+# "Tests"
+CollectNewspaperKarel.class
+CollectNewspaperKarel.java
+karel.jar
